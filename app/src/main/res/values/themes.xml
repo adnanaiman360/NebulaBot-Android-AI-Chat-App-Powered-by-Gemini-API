@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Chatapp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <item name="sentMessageBackground">@color/sent_message_background_light</item>
+    <item name="receivedMessageBackground">@color/received_message_background_light</item>
+    <item name="sentMessageTextColor">@color/sent_message_text_light</item>
+    <item name="receivedMessageTextColor">@color/received_message_text_light</item>
+        <item name="buttonBackground">@drawable/button_background</item>
+</style>
+
+</resources>

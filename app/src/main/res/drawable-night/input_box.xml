@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1F1F1F"/> <!-- Dark grey color for input box background -->
+    <corners android:radius="25dp"/> <!-- Rounded corners for pill shape -->
+    <padding
+        android:left="16dp"
+        android:right="16dp"
+        android:top="8dp"
+        android:bottom="8dp"/>
+</shape>

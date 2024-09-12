@@ -1,0 +1,10 @@
+<resources>
+    <!-- Declare custom attributes for sent and received message backgrounds and message colors -->
+    <attr name="sentMessageBackground" format="reference|color"/>
+    <attr name="receivedMessageBackground" format="reference|color"/>
+    <attr name="sentMessageTextColor" format="reference|color"/>
+    <attr name="receivedMessageTextColor" format="reference|color"/>
+    <declare-styleable name="CustomTheme">
+        <attr name="buttonBackground" format="reference"/>
+    </declare-styleable>
+</resources>

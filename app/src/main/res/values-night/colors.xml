@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Dark Mode Colors -->
+    <!-- Colors for Dark Mode -->
+    <color name="background_dark">#1f1b30</color>
+    <color name="text_dark">#FFFFFF</color>
+    <color name="sent_chat_dark">#680cfc</color>
+    <color name="received_chat_dark">#2d2d30</color>
+    <color name="bubble_text_dark">#FFFFFF</color>
+
+    <!-- Input Field Colors -->
+    <color name="input_background_dark">#303030</color>
+    <color name="input_text_dark">#FFFFFF</color>
+
+    <!-- Chat background colors -->
+    <color name="received_chat">#2A2A2A</color>  <!-- Dark gray for received messages -->
+    <color name="sent_chat">#4b0082</color>      <!-- Purple for sent messages (same as light mode) -->
+
+    <!-- Text colors -->
+    <color name="message">#FFFFFF</color>           <!-- White message -->
+
+    <color name="sent_message_background_dark">#4b0082</color> <!-- Example color -->
+    <color name="received_message_background_dark">#1c1c1c</color>
+    <color name="sent_message_text_dark">#FFFFFF</color>
+    <color name="received_message_text_dark">#FFFFFF</color>
+
+    <color name="textColor">#FFFFFF</color> <!-- White message for dark mode -->
+    <color name="hintColor">#B3B3B3</color> <!-- Light grey hint color for dark mode -->
+
+
+
+</resources>

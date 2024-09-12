@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sent_chat">#7F6EF1</color>
+    <color name="received_chat">#E0E0E0</color>
+
+    <!-- Colors for Light Mode -->
+    <color name="background_light">#FFFFFF</color> <!-- Light background -->
+    <color name="text_light">#000000</color> <!-- Dark message -->
+    <color name="sent_chat_light">#D1C4E9</color> <!-- Light purple for sent messages -->
+    <color name="received_chat_light">#E0E0E0</color> <!-- Light gray for received messages -->
+    <color name="bubble_text_light">#000000</color> <!-- Black message for chat bubbles -->
+
+    <!-- Common Color Declarations (Base) -->
+    <color name="background_dark">#1f1b30</color> <!-- Dark background for night mode -->
+    <color name="text_dark">#FFFFFF</color> <!-- White message for night mode -->
+    <color name="sent_chat_dark">#680cfc</color> <!-- Purple sent message color for night mode -->
+    <color name="received_chat_dark">#2d2d30</color> <!-- Dark gray received message color -->
+    <color name="bubble_text_dark">#FFFFFF</color> <!-- White message for dark mode chat bubbles -->
+
+    <!-- Input Field Colors -->
+    <color name="input_background_light">#F5F5F5</color> <!-- Light input background -->
+    <color name="input_text_light">#000000</color> <!-- Black input message -->
+    <color name="input_background_dark">#303030</color> <!-- Dark input background -->
+    <color name="input_text_dark">#FFFFFF</color> <!-- White input message -->
+
+
+    <!-- Text colors -->
+    <color name="message">#000000</color>           <!-- Black message -->
+
+
+    <color name="sent_message_background_light">#680cfc</color> <!-- Example color -->
+    <color name="received_message_background_light">#eaeaea</color>
+    <color name="sent_message_text_light">#FFFFFF</color>
+    <color name="received_message_text_light">#000000</color>
+
+
+    <color name="sent_message_background_dark">#4b0082</color> <!-- Example color -->
+    <color name="received_message_background_dark">#1c1c1c</color>
+    <color name="sent_message_text_dark">#FFFFFF</color>
+    <color name="received_message_text_dark">#FFFFFF</color>
+
+
+    <color name="textColor">#000000</color> <!-- Black message for light mode -->
+    <color name="hintColor">#808080</color> <!-- Grey hint color for light mode -->
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
